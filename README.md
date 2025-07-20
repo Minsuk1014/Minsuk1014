@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013299?style=for-the-badge&logo=numpy&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -29,7 +30,6 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013299?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/langchain-%230072E1?style=for-the-badge&logo=chainlink&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
