@@ -40,9 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/gitlab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <br>
 </div>
-
-<div align=center><h1>📚 SUB STACKS</h1></div>
-
+<details>
+<summary>🧰 SUB STACKS</summary>
 <div align=center>
   <img src="https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -55,3 +54,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+</details>
+
+
