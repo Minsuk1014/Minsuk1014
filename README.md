@@ -116,7 +116,6 @@ Here are some ideas to get you started:
       - 랭체인과 레그를 이해하기 위해서 진행
       - 사용자가 입력 시 감성분석하여 이모지 선택
 
-</aside>
 ## 👤 About Me
 
 - 🎓 **학교**: 명지대학교  
