@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
     
 ### Data Analyze & ML
-- **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
+- **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/Infra_Analysis)]  
   → 서울시 외국인 인프라 개선을 위한 데이터 분석 프로젝트
 
 - **중고차 매물 비교 사이트 [2025.06.24 ~ 2025.06.26 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-2TEAM)]  
