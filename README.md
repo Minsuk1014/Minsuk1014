@@ -75,28 +75,28 @@ Here are some ideas to get you started:
 - **Feel Check APP** [2024.03 ~ 2024.06]  [[상세보기](https://www.notion.so/Feel-Check-APP-14628c61741280169ba3e79e1a78a442?source=copy_link)]  
   → 표정 분석 기반 감정 일기 앱 개발
 
-- **SW 경진대회 프로젝트** [2024.07 ~ 2024.08]  [[상세보기](https://www.notion.so/SW-14628c61741280a1ad57fb72185ce563?source=copy_link)] 
+- **SW 경진대회 프로젝트** [2024.07 ~ 2024.08]  [[상세보기](https://www.notion.so/SW-14628c61741280a1ad57fb72185ce563?source=copy_link)]  
   → 운전자의 이상행동 감지 AI 모델 파인튜닝  
 
-- **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]
+- **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
   → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
     
 ### Data Analyze & ML
-- **외국인 인프라 분석** [2023.11 ~ 2023.12]  
+- **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
   → 서울시 외국인 인프라 개선을 위한 데이터 분석 프로젝트
 
-- **중고차 매물 비교 사이트 [2025.06.24 ~ 2025.06.26 ]**
+- **중고차 매물 비교 사이트 [2025.06.24 ~ 2025.06.26 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-2TEAM)]  
     - 5개의 중고차 사이트 데이터를 기반으로 비교 분석 및 시각화
       
-- **부트캠프 이탈자 예측 분석 [ 2025.07.10 ~ 2025.07.11 ]**
+- **부트캠프 이탈자 예측 분석 [ 2025.07.10 ~ 2025.07.11 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-2Team)]  
     - 데이콘 부트캠프 데이터를 사용하여 데이터 전처리와 머신러닝을 이용해 이탈자 예측
 
 ### Other
 
-- **TACO (타자로 코딩하자)** [2024.04 ~ 2024.06]  
+- **TACO (타자로 코딩하자)** [2024.04 ~ 2024.06]  [[상세보기](https://www.notion.so/TACO-14528c61741280e5bfa4fd2612dacf05?source=copy_link)]  
   → 코드 타자 연습 웹사이트 개발  
 
-- **Pixel Guardians APP** [2024.09 ~ 2024.12]  
+- **Pixel Guardians APP** [2024.09 ~ 2024.12]  [[상세보기](https://www.notion.so/Pixcel-Guardian-Defnse-APP-14628c61741280abb141cd10b3450c9f?source=copy_link)]  
   → 2D 타워 디펜스 게임 개발
 
 ## 🤝 My Projects
