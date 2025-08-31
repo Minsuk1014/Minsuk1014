@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 - **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
   → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
 
-- **Anki 기반 개인화 복습 챗봇** [2025.08.22 ~ 2024.8.25]  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)] 
+- **Anki 기반 개인화 복습 챗봇** [2025.08.22 ~ 2024.8.25]  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)]  
   → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동
 
 ### Data Analyze & ML
@@ -89,10 +89,10 @@ Here are some ideas to get you started:
   → 서울시 외국인 인프라 개선을 위한 데이터 분석 프로젝트
 
 - **중고차 매물 비교 사이트 [2025.06.24 ~ 2025.06.26 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-2TEAM)]  
-    - 5개의 중고차 사이트 데이터를 기반으로 비교 분석 및 시각화
+    → 5개의 중고차 사이트 데이터를 기반으로 비교 분석 및 시각화
       
 - **부트캠프 이탈자 예측 분석 [ 2025.07.10 ~ 2025.07.11 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-2Team)]  
-    - 데이콘 부트캠프 데이터를 사용하여 데이터 전처리와 머신러닝을 이용해 이탈자 예측
+    → 데이콘 부트캠프 데이터를 사용하여 데이터 전처리와 머신러닝을 이용해 이탈자 예측
 
 ### Other
 
