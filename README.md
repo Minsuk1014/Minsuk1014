@@ -80,7 +80,10 @@ Here are some ideas to get you started:
 
 - **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
   → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
-    
+
+- **Anki 기반 개인화 복습 챗봇** [2025.08.22 ~ 2024.8.25]  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)] 
+  → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동
+
 ### Data Analyze & ML
 - **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/Infra_Analysis)]  
   → 서울시 외국인 인프라 개선을 위한 데이터 분석 프로젝트
