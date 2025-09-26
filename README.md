@@ -1,4 +1,4 @@
-## 행복한 하루 보내세요.
+## 에프앤가이드에 입사하고 싶습니다.
 
 <!--
 **Minsuk1014/Minsuk1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
