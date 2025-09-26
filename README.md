@@ -69,6 +69,10 @@ Here are some ideas to get you started:
   → 컴퓨터 비전 및 강화학습 논문 스터디 및 발표  
   → 모델 경량화 논문 분석 및 발표
 
+- **SK Networks Family AI Camp (LLM 개발자 과정)** [2025.05 ~ ]
+  → 데이터 분석, ML/LLM/RAG 실습 중심 과정 수료 중 
+
+
 ## 🤝 Team Projects
 
 ### Computer Vision & LLM
@@ -82,7 +86,8 @@ Here are some ideas to get you started:
   → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
 
 - **Anki 기반 개인화 복습 챗봇** [2025.08.22 ~ 2024.8.25]  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)]  
-  → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동
+  → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동  
+  → 이후 AWS와 도커, REST API를 이용해 고도화를 진행  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-4th-4team)]  
 
 ### Data Analyze & ML
 - **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/Infra_Analysis)]  
