@@ -59,53 +59,57 @@ Here are some ideas to get you started:
 
 ## 💼 Work Experience
 
-- **(주) 프람트 테크놀러지** [2023.07 ~ 2023.08]  
-  → 기존 데이터베이스의 데이터를 분석하여 스키마 재정의 및 관계형 모델 재구성
-  
-- **(주) 사이냅소프트** [2024.01 ~ 2024.02]  
-  → OCR 학습 데이터 제작 및 전처리, 결과 비교, 워터마크 데이터 생성기 개선
-  
+- **SK Networks Family AI Camp (LLM 개발자 과정)** [2025.05 ~ ]  
+  → 데이터 분석, ML/LLM/RAG 실습 중심 과정 수료 중
+
 - **명지대학교 SAINT Lab (고급인공지능 연구실)** [2024.04 ~ 2024.12]  
   → 컴퓨터 비전 및 강화학습 논문 스터디 및 발표  
   → 모델 경량화 논문 분석 및 발표
 
-- **SK Networks Family AI Camp (LLM 개발자 과정)** [2025.05 ~ ]
-  → 데이터 분석, ML/LLM/RAG 실습 중심 과정 수료 중 
+- **(주) 사이냅소프트** [2024.01 ~ 2024.02]  
+  → OCR 학습 데이터 제작 및 전처리, 결과 비교, 워터마크 데이터 생성기 개선
+  
+- **(주) 프람트 테크놀러지** [2023.07 ~ 2023.08]  
+  → 기존 데이터베이스의 데이터를 분석하여 스키마 재정의 및 관계형 모델 재구성
 
 
 ## 🤝 Team Projects
 
 ### Computer Vision & LLM
-- **Feel Check APP** [2024.03 ~ 2024.06]  [[상세보기](https://www.notion.so/Feel-Check-APP-14628c61741280169ba3e79e1a78a442?source=copy_link)]  
-  → 표정 분석 기반 감정 일기 앱 개발
-
-- **SW 경진대회 프로젝트** [2024.07 ~ 2024.08]  [[상세보기](https://www.notion.so/SW-14628c61741280a1ad57fb72185ce563?source=copy_link)]  
-  → 운전자의 이상행동 감지 AI 모델 파인튜닝  
-
-- **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
-  → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
 
 - **Anki 기반 개인화 복습 챗봇** [2025.08.22 ~ 2024.8.25]  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)]  
   → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동  
   → 이후 AWS와 도커, REST API를 이용해 고도화를 진행  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-4th-4team)]  
 
-### Data Analyze & ML
-- **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/Infra_Analysis)]  
-  → 서울시 외국인 인프라 개선을 위한 데이터 분석 프로젝트
+- **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
+  → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
 
-- **중고차 매물 비교 사이트 [2025.06.24 ~ 2025.06.26 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-2TEAM)]  
-    → 5개의 중고차 사이트 데이터를 기반으로 비교 분석 및 시각화
-      
+- **SW 경진대회 프로젝트** [2024.07 ~ 2024.08]  [[상세보기](https://www.notion.so/SW-14628c61741280a1ad57fb72185ce563?source=copy_link)]  
+  → 운전자의 이상행동 감지 AI 모델 파인튜닝  
+
+- **Feel Check APP** [2024.03 ~ 2024.06]  [[상세보기](https://www.notion.so/Feel-Check-APP-14628c61741280169ba3e79e1a78a442?source=copy_link)]  
+  → 표정 분석 기반 감정 일기 앱 개발
+
+
+### Data Analyze & ML
+
 - **부트캠프 이탈자 예측 분석 [ 2025.07.10 ~ 2025.07.11 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-2nd-2Team)]  
     → 데이콘 부트캠프 데이터를 사용하여 데이터 전처리와 머신러닝을 이용해 이탈자 예측
 
-### Other
+- **중고차 매물 비교 사이트 [2025.06.24 ~ 2025.06.26 ]** [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN15-1st-2TEAM)]  
+    → 5개의 중고차 사이트 데이터를 기반으로 비교 분석 및 시각화
 
-- **TACO (타자로 코딩하자)** [2024.04 ~ 2024.06]  [[상세보기](https://www.notion.so/TACO-14528c61741280e5bfa4fd2612dacf05?source=copy_link)]  
-  → 코드 타자 연습 웹사이트 개발  
+- **외국인 인프라 분석** [2023.11 ~ 2023.12]  [[상세보기](https://github.com/Minsuk1014/Infra_Analysis)]  
+  → 서울시 외국인 인프라 개선을 위한 데이터 분석 프로젝트
+      
+
+### Other
 
 - **Pixel Guardians APP** [2024.09 ~ 2024.12]  [[상세보기](https://www.notion.so/Pixcel-Guardian-Defnse-APP-14628c61741280abb141cd10b3450c9f?source=copy_link)]  
   → 2D 타워 디펜스 게임 개발
+
+- **TACO (타자로 코딩하자)** [2024.04 ~ 2024.06]  [[상세보기](https://www.notion.so/TACO-14528c61741280e5bfa4fd2612dacf05?source=copy_link)]  
+  → 코드 타자 연습 웹사이트 개발  
 
 ## 🤝 My Projects
   
