@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동  
   → 이후 AWS와 도커, REST API를 이용해 고도화를 진행  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-4th-4team)]  
 
-- **명지대학교 ChatGPT 경진대회** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
+- **브랜드 평판 SWOT 자동 분석 BI 솔루션** [2024.09 ~ 2024.11]  [[상세보기](https://github.com/Minsuk1014/SWOT_Analysis-)]  
   → 리뷰 데이터를 기반으로 open api 사용하여 SWOT 분석 웹사이트 개발
 
 - **SW 경진대회 프로젝트** [2024.07 ~ 2024.08]  [[상세보기](https://www.notion.so/SW-14628c61741280a1ad57fb72185ce563?source=copy_link)]  
