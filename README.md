@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 
 ## 💼 Work Experience
 
-- **SK Networks Family AI Camp (LLM 개발자 과정)** [2025.05 ~ ]  
-  → 데이터 분석, ML/LLM/RAG 실습 중심 과정 수료 중
+- **SK Networks Family AI Camp (LLM 개발자 과정)** [2025.05 ~ 2025.11]  
+  → 데이터 분석, ML/LLM/RAG 실습 중심 과정 수료
 
 - **명지대학교 SAINT Lab (고급인공지능 연구실)** [2024.04 ~ 2024.12]  
   → 컴퓨터 비전 및 강화학습 논문 스터디 및 발표  
@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 ## 🤝 Team Projects
 
 ### Computer Vision & LLM
+- **신입 온보딩 솔루션** [2025.08.22 ~ 2024.8.25]  
+  → 크롬익스텐션을 이용해 여러 에이전트를 자연어로 쉽게 사용하기 위한 솔루션
 
 - **Anki 기반 개인화 복습 챗봇** [2025.08.22 ~ 2024.8.25]  [[상세보기](https://github.com/SKNETWORKS-FAMILY-AICAMP/skn15-3rd-4team)]  
   → LangGraph를 디자인하여 벡터 DB(PGVector) 기반 RAG로 문서·DB 지식을 검색하고 OpenAI API·Anki 연동  
